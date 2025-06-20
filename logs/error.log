@@ -1,0 +1,8 @@
+{"error":"Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-237d839618esm11301115ad.33 - gsmtp","level":"error","message":"SMTP connection failed","service":"hotel-email-automation","timestamp":"2025-06-20T07:13:48.465Z"}
+{"error":"Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3158a2f4c23sm3561787a91.29 - gsmtp","level":"error","message":"SMTP connection failed","service":"hotel-email-automation","timestamp":"2025-06-20T07:18:19.106Z"}
+{"error":"No mailbox is currently selected","level":"error","message":"Error processing new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:34:45.553Z"}
+{"error":"No mailbox is currently selected","level":"error","message":"Error processing new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:38:40.388Z"}
+{"error":"Unknown error","level":"error","message":"Failed to initialize email automation system","service":"hotel-email-automation","timestamp":"2025-06-20T08:40:08.606Z"}
+{"error":"Unknown error","level":"error","message":"Failed to initialize email automation system","service":"hotel-email-automation","timestamp":"2025-06-20T08:40:33.083Z"}
+{"error":"No mailbox is currently selected","level":"error","message":"Error processing new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:41:02.489Z"}
+{"error":"No mailbox is currently selected","level":"error","message":"Error processing new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:54:22.582Z"}

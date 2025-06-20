@@ -1,0 +1,114 @@
+{"level":"info","message":"Initializing Hotel Email Automation System...","service":"hotel-email-automation","timestamp":"2025-06-20T07:13:46.059Z"}
+{"error":"Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-237d839618esm11301115ad.33 - gsmtp","level":"error","message":"SMTP connection failed","service":"hotel-email-automation","timestamp":"2025-06-20T07:13:48.465Z"}
+{"level":"info","message":"Initializing Hotel Email Automation System...","service":"hotel-email-automation","timestamp":"2025-06-20T07:18:16.925Z"}
+{"error":"Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3158a2f4c23sm3561787a91.29 - gsmtp","level":"error","message":"SMTP connection failed","service":"hotel-email-automation","timestamp":"2025-06-20T07:18:19.106Z"}
+{"level":"info","message":"Initializing Hotel Email Automation System...","service":"hotel-email-automation","timestamp":"2025-06-20T08:34:35.944Z"}
+{"level":"info","message":"SMTP connection verified successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:34:41.411Z"}
+{"level":"info","message":"IMAP connection ready","service":"hotel-email-automation","timestamp":"2025-06-20T08:34:45.529Z"}
+{"level":"info","message":"Email monitoring system initialized successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:34:45.532Z"}
+{"level":"info","message":"Starting email monitoring with 5 minute intervals","service":"hotel-email-automation","timestamp":"2025-06-20T08:34:45.534Z"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:34:45.549Z"}
+{"error":"No mailbox is currently selected","level":"error","message":"Error processing new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:34:45.553Z"}
+{"level":"info","message":"Inbox opened successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:34:46.184Z","totalMessages":4}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:35:00.570Z"}
+{"level":"info","message":"Found 4 new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:35:01.708Z"}
+{"from":"","level":"info","message":"Parsed new email","messageId":"<28e3c519-03ef-434b-804c-9ada884b5f91@facebookmail.com>","service":"hotel-email-automation","subject":"💬 Rajesh Poonghat commented on a photo","timestamp":"2025-06-20T08:35:02.389Z"}
+{"from":"","level":"info","message":"Parsed new email","messageId":"<68546176daf45_2686010428766@a70ba9ba-5f04-4e75-bc3a-7def33064253.mail>","service":"hotel-email-automation","subject":"9 AI Productivity Tools You Will Be Amazed to Discover👍⚡ | DEV Digest","timestamp":"2025-06-20T08:35:02.423Z"}
+{"from":"","level":"info","message":"Parsed new email","messageId":"<kky-9nnVaHuQpRQUI96qjQ@notifications.google.com>","service":"hotel-email-automation","subject":"Security alert","timestamp":"2025-06-20T08:35:02.634Z"}
+{"from":"","level":"info","message":"Parsed new email","messageId":"<By9-gdIfROKvLN-qnD0fhA@geopod-ismtpd-5>","service":"hotel-email-automation","subject":"3 new features recommended for you","timestamp":"2025-06-20T08:35:02.650Z"}
+{"level":"info","message":"Processing 4 new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:35:02.651Z"}
+{"from":"","level":"info","message":"Processing email","messageId":"<28e3c519-03ef-434b-804c-9ada884b5f91@facebookmail.com>","service":"hotel-email-automation","subject":"💬 Rajesh Poonghat commented on a photo","timestamp":"2025-06-20T08:35:02.651Z"}
+{"level":"info","message":"Email is not reservation-related, skipping","messageId":"<28e3c519-03ef-434b-804c-9ada884b5f91@facebookmail.com>","service":"hotel-email-automation","subject":"💬 Rajesh Poonghat commented on a photo","timestamp":"2025-06-20T08:35:02.652Z"}
+{"from":"","level":"info","message":"Processing email","messageId":"<68546176daf45_2686010428766@a70ba9ba-5f04-4e75-bc3a-7def33064253.mail>","service":"hotel-email-automation","subject":"9 AI Productivity Tools You Will Be Amazed to Discover👍⚡ | DEV Digest","timestamp":"2025-06-20T08:35:02.652Z"}
+{"level":"info","message":"Email is not reservation-related, skipping","messageId":"<68546176daf45_2686010428766@a70ba9ba-5f04-4e75-bc3a-7def33064253.mail>","service":"hotel-email-automation","subject":"9 AI Productivity Tools You Will Be Amazed to Discover👍⚡ | DEV Digest","timestamp":"2025-06-20T08:35:02.652Z"}
+{"from":"","level":"info","message":"Processing email","messageId":"<kky-9nnVaHuQpRQUI96qjQ@notifications.google.com>","service":"hotel-email-automation","subject":"Security alert","timestamp":"2025-06-20T08:35:02.653Z"}
+{"level":"info","message":"Email is not reservation-related, skipping","messageId":"<kky-9nnVaHuQpRQUI96qjQ@notifications.google.com>","service":"hotel-email-automation","subject":"Security alert","timestamp":"2025-06-20T08:35:02.653Z"}
+{"from":"","level":"info","message":"Processing email","messageId":"<By9-gdIfROKvLN-qnD0fhA@geopod-ismtpd-5>","service":"hotel-email-automation","subject":"3 new features recommended for you","timestamp":"2025-06-20T08:35:02.653Z"}
+{"level":"info","message":"Email is not reservation-related, skipping","messageId":"<By9-gdIfROKvLN-qnD0fhA@geopod-ismtpd-5>","service":"hotel-email-automation","subject":"3 new features recommended for you","timestamp":"2025-06-20T08:35:02.653Z"}
+{"level":"info","message":"Shutting down Hotel Email Automation System...","service":"hotel-email-automation","timestamp":"2025-06-20T08:38:29.597Z"}
+{"level":"info","message":"Stopped email monitoring cron job","service":"hotel-email-automation","timestamp":"2025-06-20T08:38:29.598Z"}
+{"level":"info","message":"IMAP connection ended","service":"hotel-email-automation","timestamp":"2025-06-20T08:38:30.442Z"}
+{"level":"info","message":"Initializing Hotel Email Automation System...","service":"hotel-email-automation","timestamp":"2025-06-20T08:38:33.022Z"}
+{"level":"info","message":"SMTP connection verified successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:38:36.400Z"}
+{"level":"info","message":"IMAP connection ready","service":"hotel-email-automation","timestamp":"2025-06-20T08:38:40.364Z"}
+{"level":"info","message":"Email monitoring system initialized successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:38:40.367Z"}
+{"level":"info","message":"Starting email monitoring with 5 minute intervals","service":"hotel-email-automation","timestamp":"2025-06-20T08:38:40.369Z"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:38:40.385Z"}
+{"error":"No mailbox is currently selected","level":"error","message":"Error processing new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:38:40.388Z"}
+{"level":"info","message":"Inbox opened successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:38:41.109Z","totalMessages":5}
+{"level":"info","message":"Shutting down Hotel Email Automation System...","service":"hotel-email-automation","timestamp":"2025-06-20T08:39:58.429Z"}
+{"level":"info","message":"Stopped email monitoring cron job","service":"hotel-email-automation","timestamp":"2025-06-20T08:39:58.432Z"}
+{"level":"info","message":"IMAP connection ended","service":"hotel-email-automation","timestamp":"2025-06-20T08:40:00.101Z"}
+{"level":"info","message":"Initializing Hotel Email Automation System...","service":"hotel-email-automation","timestamp":"2025-06-20T08:40:03.235Z"}
+{"level":"info","message":"SMTP connection verified successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:40:05.630Z"}
+{"level":"info","message":"IMAP connection ready","service":"hotel-email-automation","timestamp":"2025-06-20T08:40:08.600Z"}
+{"level":"info","message":"Initializing Hotel Email Automation System...","service":"hotel-email-automation","timestamp":"2025-06-20T08:40:27.948Z"}
+{"level":"info","message":"SMTP connection verified successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:40:31.003Z"}
+{"level":"info","message":"IMAP connection ready","service":"hotel-email-automation","timestamp":"2025-06-20T08:40:33.076Z"}
+{"level":"info","message":"Initializing Hotel Email Automation System...","service":"hotel-email-automation","timestamp":"2025-06-20T08:40:53.819Z"}
+{"level":"info","message":"SMTP connection verified successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:40:57.148Z"}
+{"level":"info","message":"IMAP connection ready","service":"hotel-email-automation","timestamp":"2025-06-20T08:41:02.465Z"}
+{"level":"info","message":"Email monitoring system initialized successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:41:02.468Z"}
+{"level":"info","message":"Starting email monitoring with 1 minute intervals","service":"hotel-email-automation","timestamp":"2025-06-20T08:41:02.470Z"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:41:02.486Z"}
+{"error":"No mailbox is currently selected","level":"error","message":"Error processing new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:41:02.489Z"}
+{"level":"info","message":"Inbox opened successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:41:03.184Z","totalMessages":1}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:42:00.549Z"}
+{"level":"info","message":"Found 1 new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:42:01.630Z"}
+{"from":"","level":"info","message":"Parsed new email","messageId":"<CAGF-FaMFcYkYfooe6_35ctovyDjXti3huKb3ceQn4NhR9Cp40w@mail.gmail.com>","service":"hotel-email-automation","subject":"New Reservation Confirmation","timestamp":"2025-06-20T08:42:02.260Z"}
+{"level":"info","message":"Processing 1 new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:42:02.260Z"}
+{"from":"","level":"info","message":"Processing email","messageId":"<CAGF-FaMFcYkYfooe6_35ctovyDjXti3huKb3ceQn4NhR9Cp40w@mail.gmail.com>","service":"hotel-email-automation","subject":"New Reservation Confirmation","timestamp":"2025-06-20T08:42:02.261Z"}
+{"level":"info","message":"Reservation email detected","messageId":"<CAGF-FaMFcYkYfooe6_35ctovyDjXti3huKb3ceQn4NhR9Cp40w@mail.gmail.com>","service":"hotel-email-automation","timestamp":"2025-06-20T08:42:02.261Z"}
+{"details":{"email":"abinanto1998@gmail.com","guestName":"Name"},"level":"info","message":"Parsed reservation details","service":"hotel-email-automation","timestamp":"2025-06-20T08:42:02.262Z"}
+{"level":"info","message":"Reservation response sent successfully","messageId":"<885ed332-8247-b8e4-d349-783d413c17d7@gmail.com>","service":"hotel-email-automation","timestamp":"2025-06-20T08:42:06.735Z","to":"abinanto1998@gmail.com"}
+{"level":"info","message":"Automated reservation response sent successfully","messageId":"<CAGF-FaMFcYkYfooe6_35ctovyDjXti3huKb3ceQn4NhR9Cp40w@mail.gmail.com>","service":"hotel-email-automation","timestamp":"2025-06-20T08:42:06.736Z","to":"abinanto1998@gmail.com"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:43:00.614Z"}
+{"level":"info","message":"No new emails found","service":"hotel-email-automation","timestamp":"2025-06-20T08:43:01.772Z"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:44:00.683Z"}
+{"level":"info","message":"No new emails found","service":"hotel-email-automation","timestamp":"2025-06-20T08:44:04.131Z"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:45:00.759Z"}
+{"level":"info","message":"No new emails found","service":"hotel-email-automation","timestamp":"2025-06-20T08:45:03.822Z"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:46:00.836Z"}
+{"level":"info","message":"No new emails found","service":"hotel-email-automation","timestamp":"2025-06-20T08:46:02.308Z"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:47:00.906Z"}
+{"level":"info","message":"Found 1 new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:47:01.790Z"}
+{"from":"","level":"info","message":"Parsed new email","messageId":"<CAJh8azzmoAFFJc2ZeeyJ4bxbY4MAMagarOD04aknfJjk1n_z2g@mail.gmail.com>","service":"hotel-email-automation","subject":"New Reservation","timestamp":"2025-06-20T08:47:02.248Z"}
+{"level":"info","message":"Processing 1 new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:47:02.249Z"}
+{"from":"","level":"info","message":"Processing email","messageId":"<CAJh8azzmoAFFJc2ZeeyJ4bxbY4MAMagarOD04aknfJjk1n_z2g@mail.gmail.com>","service":"hotel-email-automation","subject":"New Reservation","timestamp":"2025-06-20T08:47:02.249Z"}
+{"level":"info","message":"Reservation email detected","messageId":"<CAJh8azzmoAFFJc2ZeeyJ4bxbY4MAMagarOD04aknfJjk1n_z2g@mail.gmail.com>","service":"hotel-email-automation","timestamp":"2025-06-20T08:47:02.249Z"}
+{"details":{"email":"abinanto1998@gmail.com","guestName":"name"},"level":"info","message":"Parsed reservation details","service":"hotel-email-automation","timestamp":"2025-06-20T08:47:02.250Z"}
+{"level":"info","message":"Reservation response sent successfully","messageId":"<271659e3-b7bf-c3a5-2838-7acbbae065ae@gmail.com>","service":"hotel-email-automation","timestamp":"2025-06-20T08:47:06.806Z","to":"abinanto1998@gmail.com"}
+{"level":"info","message":"Automated reservation response sent successfully","messageId":"<CAJh8azzmoAFFJc2ZeeyJ4bxbY4MAMagarOD04aknfJjk1n_z2g@mail.gmail.com>","service":"hotel-email-automation","timestamp":"2025-06-20T08:47:06.807Z","to":"abinanto1998@gmail.com"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:48:00.965Z"}
+{"level":"info","message":"No new emails found","service":"hotel-email-automation","timestamp":"2025-06-20T08:48:02.078Z"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:49:00.037Z"}
+{"level":"info","message":"No new emails found","service":"hotel-email-automation","timestamp":"2025-06-20T08:49:00.987Z"}
+{"level":"info","message":"Shutting down Hotel Email Automation System...","service":"hotel-email-automation","timestamp":"2025-06-20T08:49:05.115Z"}
+{"level":"info","message":"Stopped email monitoring cron job","service":"hotel-email-automation","timestamp":"2025-06-20T08:49:05.116Z"}
+{"level":"info","message":"IMAP connection ended","service":"hotel-email-automation","timestamp":"2025-06-20T08:49:05.955Z"}
+{"level":"info","message":"Initializing Hotel Email Automation System...","service":"hotel-email-automation","timestamp":"2025-06-20T08:54:12.235Z"}
+{"level":"info","message":"SMTP connection verified successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:54:18.052Z"}
+{"level":"info","message":"IMAP connection ready","service":"hotel-email-automation","timestamp":"2025-06-20T08:54:22.574Z"}
+{"level":"info","message":"Email monitoring system initialized successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:54:22.576Z"}
+{"level":"info","message":"Starting email monitoring with 1 minute intervals","service":"hotel-email-automation","timestamp":"2025-06-20T08:54:22.576Z"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:54:22.581Z"}
+{"error":"No mailbox is currently selected","level":"error","message":"Error processing new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:54:22.582Z"}
+{"level":"info","message":"Inbox opened successfully","service":"hotel-email-automation","timestamp":"2025-06-20T08:54:23.314Z","totalMessages":2}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:55:00.623Z"}
+{"level":"info","message":"Found 1 new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:55:01.597Z"}
+{"from":"","level":"info","message":"Parsed new email","messageId":"<CAGF-FaMXkR8qVBSFqRpnU8tcpY5=XPKiwkhEHeQO7bbcdaesSA@mail.gmail.com>","service":"hotel-email-automation","subject":"New Reservation","timestamp":"2025-06-20T08:55:02.157Z"}
+{"level":"info","message":"Processing 1 new emails","service":"hotel-email-automation","timestamp":"2025-06-20T08:55:02.157Z"}
+{"from":"","level":"info","message":"Processing email","messageId":"<CAGF-FaMXkR8qVBSFqRpnU8tcpY5=XPKiwkhEHeQO7bbcdaesSA@mail.gmail.com>","service":"hotel-email-automation","subject":"New Reservation","timestamp":"2025-06-20T08:55:02.158Z"}
+{"level":"info","message":"Reservation email detected","messageId":"<CAGF-FaMXkR8qVBSFqRpnU8tcpY5=XPKiwkhEHeQO7bbcdaesSA@mail.gmail.com>","service":"hotel-email-automation","timestamp":"2025-06-20T08:55:02.158Z"}
+{"details":{"email":"abinanto1998@gmail.com","guestName":"Name"},"level":"info","message":"Parsed reservation details","service":"hotel-email-automation","timestamp":"2025-06-20T08:55:02.159Z"}
+{"level":"info","message":"Reservation response sent successfully","messageId":"<197cd3df-4f0c-c638-e403-e4066d6b79b9@gmail.com>","service":"hotel-email-automation","timestamp":"2025-06-20T08:55:07.262Z","to":"abinanto1998@gmail.com"}
+{"level":"info","message":"Automated reservation response sent successfully","messageId":"<CAGF-FaMXkR8qVBSFqRpnU8tcpY5=XPKiwkhEHeQO7bbcdaesSA@mail.gmail.com>","service":"hotel-email-automation","timestamp":"2025-06-20T08:55:07.263Z","to":"abinanto1998@gmail.com"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:56:00.682Z"}
+{"level":"info","message":"No new emails found","service":"hotel-email-automation","timestamp":"2025-06-20T08:56:01.634Z"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:57:00.748Z"}
+{"level":"info","message":"No new emails found","service":"hotel-email-automation","timestamp":"2025-06-20T08:57:01.752Z"}
+{"level":"info","message":"Checking for new emails...","service":"hotel-email-automation","timestamp":"2025-06-20T08:58:00.811Z"}
+{"level":"info","message":"No new emails found","service":"hotel-email-automation","timestamp":"2025-06-20T08:58:01.747Z"}
+{"level":"info","message":"Shutting down Hotel Email Automation System...","service":"hotel-email-automation","timestamp":"2025-06-20T08:58:13.627Z"}
+{"level":"info","message":"Stopped email monitoring cron job","service":"hotel-email-automation","timestamp":"2025-06-20T08:58:13.628Z"}
+{"level":"info","message":"IMAP connection ended","service":"hotel-email-automation","timestamp":"2025-06-20T08:58:14.386Z"}
